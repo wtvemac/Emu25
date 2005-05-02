@@ -1,0 +1,75 @@
+LOG FOR (127.0.0.1:4979) ON SUN MAY  1 22:11:18 2005:
+GET wtv-1800:/preregister?scriptless-reason%3D10=
+wtv-show-time-record: 1 <file://rom/HTMLs/Connecting.html>; 21 <file://rom/HTMLs/ConnectSetup.html>
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164662
+wtv-system-sysconfig: 3116068
+wtv-incarnation: 1
+Accept-Language: en
+wtv-connect-session-id: 51141696
+wtv-client-serial-number: =GET(?)
+wtv-system-version: =GET(?)
+wtv-capability-flags: =GET(?)
+wtv-client-bootrom-version: 2046
+wtv-client-rom-type: US-LC2-disk-0MB-8MB
+wtv-system-chipversion: 53608448
+wtv-encryption: true
+wtv-script-id: 0
+wtv-script-mod: 0
+
+
+LOG FOR (127.0.0.1:4979) ON SUN MAY  1 22:11:18 2005:
+GET wtv-1800:/lobby
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164662
+wtv-system-sysconfig: 3116068
+wtv-incarnation: 1
+
+
+LOG FOR (127.0.0.1:4980) ON SUN MAY  1 22:13:08 2005:
+GET wtv-1800:/preregister?scriptless-reason%3D10=
+wtv-show-time-record: 1 <file://rom/HTMLs/Connecting.html>; 10 <file://rom/HTMLs/ConnectSetup.html>
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164458
+wtv-system-sysconfig: 736935855
+wtv-incarnation: 1
+Accept-Language: en
+wtv-connect-session-id: 7115ff00
+wtv-client-serial-number: =GET(?)
+wtv-system-version: =GET(?)
+wtv-capability-flags: =GET(?)
+wtv-client-bootrom-version: 105
+wtv-client-rom-type: bf0app
+wtv-system-chipversion: 16842752
+wtv-encryption: true
+wtv-script-id: 0
+wtv-script-mod: 0
+
+
+LOG FOR (127.0.0.1:4981) ON SUN MAY  1 22:13:24 2005:
+GET wtv-1800:/lobby?ddd
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164458
+wtv-system-sysconfig: 736935855
+wtv-incarnation: 2
+Accept-Language: en
+wtv-connect-session-id: 7115ff00
+wtv-client-serial-number: =GET(?)
+wtv-system-version: =GET(?)
+wtv-capability-flags: =GET(?)
+wtv-client-bootrom-version: 105
+wtv-client-rom-type: bf0app
+wtv-system-chipversion: 16842752
+wtv-encryption: true
+wtv-script-id: 0
+wtv-script-mod: 0
+
+
+LOG FOR (127.0.0.1:4994) ON SUN MAY  1 22:18:26 2005:
+GET wtv-1800:/lobby
+
+
+LOG FOR (127.0.0.1:4994) ON SUN MAY  1 22:18:37 2005:
+GEt wtv-1800:/loby
+
+

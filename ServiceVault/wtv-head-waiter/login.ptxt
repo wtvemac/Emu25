@@ -1,0 +1,13 @@
+200 Moved
+Server: The WebTV Emulator
+wtv-initial-key: xb/qLd8BijU=
+Connection: keep-alive
+wtv-challenge: 8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgjDVTFojC86cCThx3eQKXsgoAr4bH9dT7++WHMYC7yXSt+gUx/sk4bGUWJihDA==
+wtv-service: name=wtv-log host=127.0.0.1 port=1618
+wtv-service: name=wtv-head-waiter host=209.240.219.235 port=1600 flags=0x04
+wtv-service: name=wtv-1800 host=127.0.0.1 port=1618 flags=0x04
+wtv-log-url: wtv-log:/log
+wtv-visit: wtv-head-waiter:/login-stage-two
+Content-Type: text/html
+Content-Length: 0
+

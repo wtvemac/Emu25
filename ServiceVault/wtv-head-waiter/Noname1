@@ -1,0 +1,1061 @@
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0057D439, API Return Address=0057D43E
+  Arg01 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 00000000
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00421499 ->(LPDWORD)c483e88b or (LPSTR)"‹èƒÄ…í‰l$„Ô"
+
+RESULT for API Local_Function
+  Arg00 = 00000098
+  Arg01 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 00000000
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00421499 ->(LPDWORD)c483e88b or (LPSTR)"‹èƒÄ…í‰l$„Ô"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0057D49A, API Return Address=0057D49F
+  Arg01 = 00000074
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg05 = 00000000
+  Arg06 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg07 = 00000000
+  Arg08 = 00000002
+
+RESULT for API Local_Function
+  Arg00 = 014bba80 ->(LPDWORD)014bbf00 or (LPSTR)""
+  Arg01 = 00000074
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg05 = 00000000
+  Arg06 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg07 = 00000000
+  Arg08 = 00000002
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004214B3, API Return Address=004214B8
+  Arg01 = 00000070
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 73dd3b69 ->(LPDWORD)0689008b or (LPSTR)"‹"
+
+RESULT for API Local_Function
+  Arg00 = 014cd134 ->(LPDWORD)014d0aec or (LPSTR)"ì
+M"
+  Arg01 = 00000070
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 73dd3b69 ->(LPDWORD)0689008b or (LPSTR)"‹"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004214C9, API Return Address=004214CE
+  Arg01 = 014cd134 ->(LPDWORD)014d0aec or (LPSTR)"ì
+M"
+  Arg02 = 014bba80 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æq"
+  Arg03 = 00000008
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 73dd3b69 ->(LPDWORD)0689008b or (LPSTR)"‹"
+
+RESULT for API Local_Function
+  Arg00 = 014cd134 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æ"
+  Arg01 = 014cd134 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æ"
+  Arg02 = 014bba80 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æq"
+  Arg03 = 00000008
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 73dd3b69 ->(LPDWORD)0689008b or (LPSTR)"‹"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004214EC, API Return Address=004214F1
+  Arg01 = 0012fa9c ->(LPDWORD)00000000 or (LPSTR)""
+  Arg02 = 005def28 ->(LPDWORD)0000001d or (LPSTR)""
+  Arg03 = 014a6018 ->(LPDWORD)2deabfc5 or (LPSTR)"Å¿ê-ßŠ5`ßGøÞG ]K°Y\"
+  Arg04 = 00000000
+  Arg05 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg06 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg07 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 0012fa9c ->(LPDWORD)005def28 or (LPSTR)"(ï]"
+  Arg02 = 005def28 ->(LPDWORD)0000001d or (LPSTR)""
+  Arg03 = 014a6018 ->(LPDWORD)2deabfc5 or (LPSTR)"Å¿ê-ßŠ5`ßGøÞG ]K°Y\"
+  Arg04 = 00000000
+  Arg05 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg06 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg07 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0042150F, API Return Address=00421514
+  Arg01 = 0012fa9c ->(LPDWORD)005def28 or (LPSTR)"(ï]"
+  Arg02 = 014cd13c ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 0012fa7c ->(LPDWORD)73dd3b69 or (LPSTR)"i;Ýsp"
+  Arg04 = 014bba88 ->(LPDWORD)86008f71 or (LPSTR)"q"
+  Arg05 = 00000068
+  Arg06 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg07 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg08 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+
+RESULT for API Local_Function
+  Arg00 = 0012faa8 ->(LPDWORD)94b1e124 or (LPSTR)"$á±”X˜¡<"
+  Arg01 = 0012fa9c ->(LPDWORD)005def28 or (LPSTR)"(ï]"
+  Arg02 = 014cd13c ->(LPDWORD)9c018dd1 or (LPSTR)"Ñœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[PìÓ˜!{"
+  Arg03 = 0012fa7c ->(LPDWORD)00000060 or (LPSTR)"`"
+  Arg04 = 014bba88 ->(LPDWORD)86008f71 or (LPSTR)"q"
+  Arg05 = 00000068
+  Arg06 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg07 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg08 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0042152C, API Return Address=00421531
+  Arg01 = 0012fa9c ->(LPDWORD)005def28 or (LPSTR)"(ï]"
+  Arg02 = 014cd19c ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 0012fa7c ->(LPDWORD)00000060 or (LPSTR)"`"
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000060
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 0012fa9c ->(LPDWORD)005def28 or (LPSTR)"(ï]"
+  Arg02 = 014cd19c ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 0012fa7c ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000060
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0042154C, API Return Address=00421551
+  Arg01 = 014cd13c ->(LPDWORD)9c018dd1 or (LPSTR)"Ñœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[PìÓ˜!{"
+  Arg02 = 00000050
+  Arg03 = 00000000
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 0061a8e8 ->(LPDWORD)5225fca1 or (LPSTR)"¡ü%RÇGÎ>æ]wDRq"
+  Arg01 = 014cd13c ->(LPDWORD)9c018dd1 or (LPSTR)"Ñœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[PìÓ˜!{"
+  Arg02 = 00000050
+  Arg03 = 00000000
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0042155B, API Return Address=00421560
+  Arg01 = 0061a8e8 ->(LPDWORD)5225fca1 or (LPSTR)"¡ü%RÇGÎ>æ]wDRq"
+  Arg02 = 014cd18c ->(LPDWORD)ec06505b or (LPSTR)"[PìÓ˜!{¦†Øœ"
+  Arg03 = 00000010
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000001
+  Arg01 = 0061a8e8 ->(LPDWORD)5225fca1 or (LPSTR)"¡ü%RÇGÎ>æ]wDRq"
+  Arg02 = 014cd18c ->(LPDWORD)ec06505b or (LPSTR)"[PìÓ˜!{¦†Øœ"
+  Arg03 = 00000010
+  Arg04 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg05 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg06 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 00000000
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004216AC, API Return Address=004216B1
+  Arg01 = 014bba80 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æq"
+  Arg02 = 00000000
+  Arg03 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg06 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg07 = 00000000
+  Arg08 = 00000070
+
+RESULT for API Local_Function
+  Arg00 = 014bbf00 ->(LPDWORD)00000028 or (LPSTR)"("
+  Arg01 = 014bba80 ->(LPDWORD)014bbf00 or (LPSTR)""
+  Arg02 = 00000000
+  Arg03 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg06 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg07 = 00000000
+  Arg08 = 00000070
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004216BB, API Return Address=004216C0
+  Arg01 = 014cd134 ->(LPDWORD)709159f1 or (LPSTR)"ñY‘p8¶æÑœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[P"
+  Arg02 = 00000000
+  Arg03 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg06 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg07 = 00000000
+  Arg08 = 00000070
+
+RESULT for API Local_Function
+  Arg00 = 014d0aec ->(LPDWORD)00000458 or (LPSTR)"X"
+  Arg01 = 014cd134 ->(LPDWORD)014d0aec or (LPSTR)"ì
+M8¶æÑœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[P"
+  Arg02 = 00000000
+  Arg03 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg04 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg05 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg06 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg07 = 00000000
+  Arg08 = 00000070
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0042246F, API Return Address=00422474
+  Arg01 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg02 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg03 = 014bc078 ->(LPDWORD)005ad078 or (LPSTR)"xÐZ"
+  Arg04 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg05 = 0012fbc8 ->(LPDWORD)0012fbe0 or (LPSTR)"àû"
+  Arg06 = 0059d908 ->(LPDWORD)5c74c0b8 or (LPSTR)"¸Àt\"
+  Arg07 = ffffffff ->(LPDWORD)5c74c0b8 or (LPSTR)"¸Àt\"
+  Arg08 = 00426e37 ->(LPDWORD)0974c084 or (LPSTR)"„Àt	°_^][Â"
+
+RESULT for API Local_Function
+  Arg00 = ffffffe9 ->(LPDWORD)77d47076 or (LPSTR)"ð"
+  Arg01 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg02 = 014ccf65 ->(LPDWORD)526d5638 or (LPSTR)"8VmRcBY4tuZxjwCGHF5ZgugPoTi62CRkEr9qvdxCV842cIIw1UxaIwvOnAk4cd3k6A+hOLrYJGQSv2q93EJXzjZwgj"
+  Arg03 = 014bc078 ->(LPDWORD)005ad078 or (LPSTR)"xÐZ"
+  Arg04 = 014bc08c ->(LPDWORD)01483038 or (LPSTR)"80HtÁK"
+  Arg05 = 0012fbc8 ->(LPDWORD)0012fbe0 or (LPSTR)"àû"
+  Arg06 = 0059d908 ->(LPDWORD)5c74c0b8 or (LPSTR)"¸Àt\"
+  Arg07 = ffffffff ->(LPDWORD)5c74c0b8 or (LPSTR)"¸Àt\"
+  Arg08 = 00426e37 ->(LPDWORD)0974c084 or (LPSTR)"„Àt	°_^][Â"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00424606, API Return Address=0042460B
+  Arg01 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg02 = 000000a7
+  Arg03 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg04 = 0041cd18 ->(LPDWORD)1324448a or (LPSTR)"ŠD$„À…+"
+  Arg05 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg06 = 00000004
+  Arg07 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg08 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+
+RESULT for API Local_Function
+  Arg00 = 00012e5d ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg02 = 000000a7
+  Arg03 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg04 = 0041cd18 ->(LPDWORD)1324448a or (LPSTR)"ŠD$„À…+"
+  Arg05 = 014ccf56 ->(LPDWORD)2d767477 or (LPSTR)"wtv-challenge"
+  Arg06 = 00000004
+  Arg07 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg08 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0041CD29, API Return Address=0041CD2C
+  Arg01 = 00000004
+  Arg02 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 000001d7
+  Arg07 = 0041c71e ->(LPDWORD)068b33eb or (LPSTR)"ë3‹‹ÎÿP$ë*‹‹ÎÿRë!‹‹ÎÿPë…ÀthÃ"
+  Arg08 = 014c5e50 ->(LPDWORD)005acf58 or (LPSTR)"XÏZ"
+
+RESULT for API Local_Function
+  Arg00 = 0000012f
+  Arg01 = 00000004
+  Arg02 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 000001d7
+  Arg07 = 0041c71e ->(LPDWORD)068b33eb or (LPSTR)"ë3‹‹ÎÿP$ë*‹‹ÎÿRë!‹‹ÎÿPë…ÀthÃ"
+  Arg08 = 014c5e50 ->(LPDWORD)005acf58 or (LPSTR)"XÏZ"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0041CC3D, API Return Address=0041CC42
+  Arg01 = 00000004
+  Arg02 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 000001d7
+  Arg07 = 0041c71e ->(LPDWORD)068b33eb or (LPSTR)"ë3‹‹ÎÿP$ë*‹‹ÎÿRë!‹‹ÎÿPë…ÀthÃ"
+  Arg08 = 014c5e50 ->(LPDWORD)005acf58 or (LPSTR)"XÏZ"
+
+RESULT for API Local_Function
+  Arg00 = 000132a0 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 00000004
+  Arg02 = 014bc074 ->(LPDWORD)005ad080 or (LPSTR)"€ÐZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 000001d7
+  Arg07 = 0041c71e ->(LPDWORD)068b33eb or (LPSTR)"ë3‹‹ÎÿP$ë*‹‹ÎÿRë!‹‹ÎÿPë…ÀthÃ"
+  Arg08 = 014c5e50 ->(LPDWORD)005acf58 or (LPSTR)"XÏZ"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00424069, API Return Address=0042406E
+  Arg01 = 014a5fd8 ->(LPDWORD)014c5e50 or (LPSTR)"P^LcJ eJ,hJ"
+  Arg02 = 00423f69 ->(LPDWORD)00244c8b or (LPSTR)"‹L$"
+  Arg03 = 0012fc14 ->(LPDWORD)0012fc28 or (LPSTR)"(ü"
+  Arg04 = 0059dac8 ->(LPDWORD)5c7710b8 or (LPSTR)"¸w\"
+  Arg05 = 00000000
+  Arg06 = 00421eb5 ->(LPDWORD)4f04c683 or (LPSTR)"ƒÆOuïèÀi"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+RESULT for API Local_Function
+  Arg00 = 00013456 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 014a5fd8 ->(LPDWORD)014c5e50 or (LPSTR)"P^LcJ eJ,hJ"
+  Arg02 = 00423f69 ->(LPDWORD)00244c8b or (LPSTR)"‹L$"
+  Arg03 = 0012fc14 ->(LPDWORD)0012fc28 or (LPSTR)"(ü"
+  Arg04 = 0059dac8 ->(LPDWORD)5c7710b8 or (LPSTR)"¸w\"
+  Arg05 = 00000000
+  Arg06 = 00421eb5 ->(LPDWORD)4f04c683 or (LPSTR)"ƒÆOuïèÀi"
+  Arg07 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00421EB0, API Return Address=00421EB5
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00421EB0, API Return Address=00421EB5
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00421EB0, API Return Address=00421EB5
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00421EBB, API Return Address=00421EC0
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 004206c6 ->(LPDWORD)66d40d8b or (LPSTR)"‹Ôfa"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004206CC, API Return Address=004206D1
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 0012fc28 ->(LPDWORD)0012fc4c or (LPSTR)"Lü"
+  Arg08 = 0059d7e8 ->(LPDWORD)5c7340b8 or (LPSTR)"¸@s\"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg07 = 0012fc28 ->(LPDWORD)0012fc4c or (LPSTR)"Lü"
+  Arg08 = 0059d7e8 ->(LPDWORD)5c7340b8 or (LPSTR)"¸@s\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004206E4, API Return Address=004206E9
+  Arg01 = 0012fc10 ->(LPDWORD)01310a58 or (LPSTR)"X
+1(ü"
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 00000000
+  Arg07 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg08 = 0012fc28 ->(LPDWORD)0012fc4c or (LPSTR)"Lü"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 0012fc10 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 00000000
+  Arg07 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg08 = 0012fc28 ->(LPDWORD)0012fc4c or (LPSTR)"Lü"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534310, API Return Address=00534315
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0053431F, API Return Address=00534324
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0052FB50, API Return Address=0052FB55
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 00534329 ->(LPDWORD)ed2ce2e8 or (LPSTR)"èâ,íÿèM,íÿèÈ{ýÿèsõÿÿ‹xfa"
+  Arg04 = 00000000
+  Arg05 = 00032000 ->(LPDWORD)ed2ce2e8 or (LPSTR)""
+  Arg06 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 0012fc00 ->(LPDWORD)014a5f70 or (LPSTR)"p_JX
+1°‹O"
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 00534329 ->(LPDWORD)ed2ce2e8 or (LPSTR)"èâ,íÿèM,íÿèÈ{ýÿèsõÿÿ‹xfa"
+  Arg04 = 00000000
+  Arg05 = 00032000 ->(LPDWORD)ed2ce2e8 or (LPSTR)""
+  Arg06 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg07 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534329, API Return Address=0053432E
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00014478 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534333, API Return Address=00534338
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005338BB, API Return Address=005338C0
+  Arg01 = 00000000
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000280
+  Arg06 = 00000000
+  Arg07 = 014cd134 ->(LPDWORD)014d0aec or (LPSTR)"ì
+M8¶æÑœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[P"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 00000000
+  Arg02 = 00000000
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000280
+  Arg06 = 00000000
+  Arg07 = 014cd134 ->(LPDWORD)014d0aec or (LPSTR)"ì
+M8¶æÑœ0±Lô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}ô¯NdpÇ/78Æ›SòN#Çžüß]ôž›Âª}rÝHÖ€DËÈ[P"
+  Arg08 = 014a5f70 ->(LPDWORD)005acf90 or (LPSTR)"ÏZ"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534343, API Return Address=00534348
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534352, API Return Address=00534357
+  Arg01 = 0012fc40 ->(LPDWORD)00159000 or (LPSTR)""
+  Arg02 = 00000000
+  Arg03 = 00032000 ->(LPDWORD)00159000 or (LPSTR)""
+  Arg04 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 00000000
+  Arg07 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg08 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 0012fc00 ->(LPDWORD)00560957 or (LPSTR)"W	V"
+  Arg01 = 0012fc40 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg02 = 00000000
+  Arg03 = 00032000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg04 = 00159000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 00000000
+  Arg07 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg08 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005343C7, API Return Address=005343CC
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 0012fc00 ->(LPDWORD)00560957 or (LPSTR)"W	V"
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)00560957 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534456, API Return Address=0053445B
+  Arg01 = 00001c20
+  Arg02 = 00000000
+  Arg03 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg08 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 00000001
+  Arg01 = 00001c20
+  Arg02 = 00000000
+  Arg03 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg08 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=00534494, API Return Address=00534499
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 014b8ce0 ->(LPDWORD)005b4ed8 or (LPSTR)"ØN["
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)005b4ed8 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005344A3, API Return Address=005344A8
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 014b8ce0 ->(LPDWORD)005b4ed8 or (LPSTR)"ØN["
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)005b4ed8 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005344AC, API Return Address=005344AF
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 014b8c00 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005344DC, API Return Address=005344E1
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 005c4e01 ->(LPDWORD)900057bd or (LPSTR)"½W"
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)900057bd or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B74E, API Return Address=0044B753
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg06 = 00000020
+  Arg07 = 00000170
+  Arg08 = 00000160
+
+RESULT for API Local_Function
+  Arg00 = 0131021c ->(LPDWORD)01493bbc or (LPSTR)"¼;IüDI"
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg06 = 00000020
+  Arg07 = 00000170
+  Arg08 = 00000160
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B7A3, API Return Address=0044B7A8
+  Arg01 = 00000000
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg07 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg08 = 00000020
+
+RESULT for API Local_Function
+  Arg00 = 00000001
+  Arg01 = 00000000
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg07 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg08 = 00000020
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B879, API Return Address=0044B87E
+  Arg01 = 0012fc14 ->(LPDWORD)00000170 or (LPSTR)"p"
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000000
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg07 = 00000001
+  Arg08 = 00000170
+
+RESULT for API Local_Function
+  Arg00 = 00000160
+  Arg01 = 0012fc14 ->(LPDWORD)000000dc or (LPSTR)"Ü"
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000000
+  Arg04 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg05 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg06 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg07 = 00000001
+  Arg08 = 00000170
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B884, API Return Address=0044B889
+  Arg01 = 0012fc14 ->(LPDWORD)000000dc or (LPSTR)"Ü"
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg07 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg08 = 00000001
+
+RESULT for API Local_Function
+  Arg00 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg01 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg07 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg08 = 00000001
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B8A5, API Return Address=0044B8AA
+  Arg01 = 005f09e0 ->(LPDWORD)011c0000 or (LPSTR)""
+  Arg02 = 005f0998 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg04 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00000000
+
+RESULT for API Local_Function
+  Arg00 = 00000001
+  Arg01 = 005f09e0 ->(LPDWORD)011c0000 or (LPSTR)""
+  Arg02 = 005f0998 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg03 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg04 = 0012fc14 ->(LPDWORD)000000db or (LPSTR)"Û"
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B94F, API Return Address=0044B954
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg06 = 00000001
+  Arg07 = 000000db
+  Arg08 = 00000020
+
+RESULT for API Local_Function
+  Arg00 = 00000000
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg06 = 00000001
+  Arg07 = 000000db
+  Arg08 = 00000020
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=0044B956, API Return Address=0044B95B
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000001 or (LPSTR)""
+  Arg06 = 00000001
+  Arg07 = 000000db
+  Arg08 = 00000020
+
+RESULT for API Local_Function
+  Arg00 = 014c5268 ->(LPDWORD)00000024 or (LPSTR)"$"
+  Arg01 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg05 = 013101f4 ->(LPDWORD)00000000 or (LPSTR)""
+  Arg06 = 00000001
+  Arg07 = 000000db
+  Arg08 = 00000020
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=005344E6, API Return Address=005344EB
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+RESULT for API Local_Function
+  Arg00 = 000170aa ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 00000000
+  Arg02 = 00032000 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg03 = 00000000
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 0012fc5c ->(LPDWORD)0012fc84 or (LPSTR)"„ü"
+  Arg07 = 005a475b ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+  Arg08 = ffffffff ->(LPDWORD)5cfcb8b8 or (LPSTR)"¸¸ü\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004F8BF0, API Return Address=004F8BF5
+  Arg01 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 0012fd08 ->(LPDWORD)0012fd28 or (LPSTR)"(ý"
+  Arg05 = 73dd178e ->(LPDWORD)c25b5e5f or (LPSTR)"_^[Â"
+  Arg06 = 73ea0220 ->(LPDWORD)001664e8 or (LPSTR)"èd"
+  Arg07 = 0012fcfc ->(LPDWORD)0012fd7c or (LPSTR)"|ý"
+  Arg08 = 005a21a8 ->(LPDWORD)5ccb98b8 or (LPSTR)"¸˜Ë\"
+
+RESULT for API Local_Function
+  Arg00 = 0001750a ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg02 = 00000000
+  Arg03 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg04 = 0012fd08 ->(LPDWORD)0012fd28 or (LPSTR)"(ý"
+  Arg05 = 73dd178e ->(LPDWORD)c25b5e5f or (LPSTR)"_^[Â"
+  Arg06 = 73ea0220 ->(LPDWORD)001664e8 or (LPSTR)"èd"
+  Arg07 = 0012fcfc ->(LPDWORD)0012fd7c or (LPSTR)"|ý"
+  Arg08 = 005a21a8 ->(LPDWORD)5ccb98b8 or (LPSTR)"¸˜Ë\"
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004F8C01, API Return Address=004F8C06
+  Arg01 = 005df66c ->(LPDWORD)72657355 or (LPSTR)"UserLoopIteration"
+  Arg02 = 0018c5b2 ->(LPDWORD)00740065 or (LPSTR)"e"
+  Arg03 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 0012fd08 ->(LPDWORD)0012fd28 or (LPSTR)"(ý"
+  Arg07 = 73dd178e ->(LPDWORD)c25b5e5f or (LPSTR)"_^[Â"
+  Arg08 = 0012fc68 ->(LPDWORD)0018c5b2 or (LPSTR)"²Å"
+
+RESULT for API Local_Function
+  Arg00 = 0012fc68 ->(LPDWORD)00af47c0 or (LPSTR)"ÀG¯"
+  Arg01 = 005df66c ->(LPDWORD)72657355 or (LPSTR)"UserLoopIteration"
+  Arg02 = 0018c5b2 ->(LPDWORD)00740065 or (LPSTR)"e"
+  Arg03 = 004f8bb0 ->(LPDWORD)0000a164 or (LPSTR)"d¡"
+  Arg04 = 00000000
+  Arg05 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg06 = 0012fd08 ->(LPDWORD)0012fd28 or (LPSTR)"(ý"
+  Arg07 = 73dd178e ->(LPDWORD)c25b5e5f or (LPSTR)"_^[Â"
+  Arg08 = 0012fc68 ->(LPDWORD)00af47c0 or (LPSTR)"ÀG¯"
+
+API NODOC Arg00 = GlobalMemoryStatus(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004F8DEB, API Return Address=004F8DF1
+  Arg01 = 0012fc38 ->(LPDWORD)00000020 or (LPSTR)" "
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000020
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00000000
+
+RESULT for API GlobalMemoryStatus
+  Arg00 = 7fffffff ->(LPDWORD)77d47076 or (LPSTR)"ð"
+  Arg01 = 0012fc38 ->(LPDWORD)00000020 or (LPSTR)" "
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000020
+  Arg04 = 00000000
+  Arg05 = 00000000
+  Arg06 = 00000000
+  Arg07 = 00000000
+  Arg08 = 00000000
+
+API NODOC Arg00 = Local_Function(Arg01,Arg02,Arg03,Arg04,Arg05,Arg06,Arg07,Arg08)
+API Address=004F8DF3, API Return Address=004F8DF8
+  Arg01 = 00000000
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000020
+  Arg04 = 0000003d
+  Arg05 = 11f8d000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg06 = 06db4000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg07 = 2bb1f000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg08 = 21d24000 ->(LPDWORD)005bd550 or (LPSTR)""
+
+RESULT for API Local_Function
+  Arg00 = 00305e30 ->(LPDWORD)77d47076 or (LPSTR)""
+  Arg01 = 00000000
+  Arg02 = 01310a58 ->(LPDWORD)005bd550 or (LPSTR)"PÕ["
+  Arg03 = 00000020
+  Arg04 = 0000003d
+  Arg05 = 11f8d000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg06 = 06db4000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg07 = 2bb1f000 ->(LPDWORD)005bd550 or (LPSTR)""
+  Arg08 = 21d24000 ->(LPDWORD)005bd550 or (LPSTR)""
+

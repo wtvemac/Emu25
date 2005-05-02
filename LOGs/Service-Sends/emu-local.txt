@@ -1,0 +1,34 @@
+LOG FOR (127.0.0.1:54034) ON FRI APR 16 21:15:37 2021:
+GET emu-local:/MSLogin
+Referer: cache:wtv-1800:/preregister?scriptless-visit-reason=10.7.write
+wtv-show-time-record: 19 <wtv-1800:/preregister?scriptless-visit-reason=10>
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164662
+wtv-system-sysconfig: 3116068
+wtv-disk-size: 8006
+wtv-encryption: 2
+Accept-Language: en
+wtv-connect-session-id: 61e9c94b
+wtv-client-serial-number: 81eaf00500b002d5
+wtv-system-version: 16276
+wtv-capability-flags: 1fee0e1d9b1ffdef
+wtv-client-bootrom-version: 2046
+wtv-client-rom-type: US-LC2-disk-0MB-8MB
+wtv-system-chipversion: 53608448
+User-Agent: Mozilla/4.0 WebTV/2.8.2 (compatible; MSIE 4.0)
+wtv-incarnation: true
+wtv-script-id: 0
+wtv-script-mod: 0
+
+
+LOG FOR (127.0.0.1:54034) ON FRI APR 16 21:15:37 2021:
+GET emu-local:/MSLogin
+Referer: cache:wtv-1800:/preregister?scriptless-visit-reason=10.a.write
+wtv-show-time-record: 2 <wtv-1800:/preregister?scriptless-visit-reason=10>
+wtv-request-type: primary
+wtv-system-cpuspeed: 166164662
+wtv-system-sysconfig: 3116068
+wtv-disk-size: 8006
+wtv-encryption: 2
+
+

@@ -1,0 +1,17 @@
+200 OK
+Content-length: %bytes
+Content-type: text/html
+%%%
+<html>
+<head>
+<title>SonTV Technical Information</title>
+</head>
+<body bgcolor="black" text="white" link="lime" vlink="red">
+Connection Speed: &rate;<br>
+CPU Speed: &cpu;<br>
+WebTV Build Number: &wtv-appvers;<br>
+WebTV Client Version: &vers;<br>
+<hr>
+<a href="sontv:/home">Home</a>
+</body>
+</html>
